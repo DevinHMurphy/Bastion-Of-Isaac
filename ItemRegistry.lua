@@ -1,0 +1,21 @@
+local registry = {}
+
+registry.Pipe = Isaac.GetItemIdByName("Pipe")
+registry.Hermes = Isaac.GetItemIdByName("Hermes Boots")
+registry.Exodus = Isaac.GetItemIdByName("Exodus")
+registry.lvl9 = Isaac.GetItemIdByName("Lvl 9")
+registry.FapRing = Isaac.GetItemIdByName("Ring of Favor and Protection ")
+registry.FapRinga = Isaac.GetItemIdByName("Ring of Favor and Protection")
+registry.Sportsball = Isaac.GetItemIdByName("Sportsball")
+registry.Position1 = Isaac.GetItemIdByName("Position 1")
+registry.Cannon = Isaac.GetItemIdByName("The Cannon")
+registry.AtGMk2 = Isaac.GetItemIdByName("AtG Missle Mk.2")
+registry.FeedingGauntlet = Isaac.GetItemIdByName("Feeding Guantlet")
+registry.RTSR = Isaac.GetItemIdByName("Red Tearstone Ring")
+registry.SigningBonus = Isaac.GetItemIdByName("Signing Bonus")
+registry.BButton = Isaac.GetItemIdByName("B Button")
+registry.MasterSeal = Isaac.GetItemIdByName("Master Seal")
+registry.GlassArtifact = Isaac.GetItemIdByName("Glass Artifact")
+registry.FullEcon = Isaac.GetItemIdByName("Full Econ")
+registry.HandAxe = Isaac.GetItemIdByName("Hand Axe")
+return registry

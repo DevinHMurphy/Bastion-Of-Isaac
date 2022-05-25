@@ -1,0 +1,22 @@
+local registry = include("ItemRegistry")
+
+if EID then
+  EID:addCollectible(registry.Pipe, "Cough up fires on your enemies")
+  EID:addCollectible(registry.Hermes, "Doubles your speed")
+  EID:addCollectible(registry.Exodus, "Clears 5 rooms, then disappears")
+  EID:addCollectible(registry.lvl9, "Makes all enemies elites")
+  EID:addCollectible(registry.FapRing, "All Stats up, breaks if dropped")
+  EID:addCollectible(registry.FapRinga, "All Stats up, breaks if dropped")
+  EID:addCollectible(registry.Sportsball, "Turns isaac's tears into footballs, that bounce off enemies")
+  EID:addCollectible(registry.Position1, "Isaac gets a random stat up for each enemy killed")
+  EID:addCollectible(registry.Cannon, "Isaac tears become cannon balls")
+  EID:addCollectible(registry.AtGMk2, "7% chance on hitting an enemy to fire three missiles that deal 3x300% damage, with homing and explosive")
+  EID:addCollectible(registry.FeedingGauntlet, "Kill enemy or any boss with 15% health and below. Spawn 1 of each consumable, 25%E 45%B trinket , 2%E 4%B item ")
+  EID:addCollectible(registry.RTSR, "Gain 50% atk, when below 30% health")
+  EID:addCollectible(registry.SigningBonus, "Spawn three coins, they cant be pennies")
+  EID:addCollectible(registry.BButton, "Shoot Falco Lasers")
+  EID:addCollectible(registry.MasterSeal, "Stats up on floor progression")
+  EID:addCollectible(registry.GlassArtifact, "do x5 damage, and take x5 damage")
+  EID:addCollectible(registry.FullEcon, "consumables become stat ups")
+  EID:addCollectible(registry.HandAxe, "Throw Axes")
+end

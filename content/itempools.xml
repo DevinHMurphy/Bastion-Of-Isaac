@@ -1,0 +1,65 @@
+<ItemPools>
+
+	<Pool Name="treasure">
+		<Item Name="Lvl 9" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Ring of Favor and Protection" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Sportsball" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Position 1" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="The Cannon" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="AtG Missle Mk.2" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Feeding Guantlet" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Red Tearstone Ring" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Signing Bonus" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="B Button" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Master Seal" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Glass Artifactt" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Full Econ" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+
+	</Pool>
+	<Pool Name="boss">
+		<Item Name="Lvl 9" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Ring of Favor and Protection" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Sportsball" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Position 1" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="The Cannon" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="AtG Missle Mk.2" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Feeding Guantlet" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Red Tearstone Ring" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Signing Bonus" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="B Button" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Master Seal" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Glass Artifact" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Full Econ" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+		<Pool Name="bossrush">
+		<Item Name="Lvl 9" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Ring of Favor and Protection" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Sportsball" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Position 1" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="The Cannon" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="AtG Missle Mk.2" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Feeding Guantlet" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Red Tearstone Ring" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Signing Bonus" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="B Button" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Master Seal" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Glass Artifact" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Full Econ" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+		<Pool Name="secret">
+		<Item Name="Lvl 9" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Red Tearstone Ring" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Signing Bonus" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Glass Artifact" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+		</Pool>
+		<Pool Name="curse">
+		<Item Name="Lvl 9" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Red Tearstone Ring" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Signing Bonus" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Glass Artifact" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</Pool>
+
+
+
+</ItemPools>

@@ -1,0 +1,67 @@
+<items gfxroot="gfx/Items/" version="1">
+  <!-- EXAMPLEITEM
+  <passive  id="0"     name="Example Item Name"            description="This is a description"                            gfx="ExampleItem.png"       cache="shotspeed firedelay tearflag" /> -->
+
+  <!-- Pipe !-->
+  <active  name="Pipe"                          description="Cough...Cough..COUGH!!!"                         gfx="pipe.png"             cache="damage" maxcharges="1"/>
+
+  <!-- hermes boots !-->
+  <passive name="Hermes Boots"                  description="Whoosh!"                                         gfx="Hermes_Boots.png"    cache="speed" quality="1" />
+
+  <!-- Exodus !-->
+  <active name="Exodus"                        description="Investing in the future"                                    gfx="Exodus.png"          maxcharges="3" />
+
+  <!-- lvl 9 !-->
+  <passive name="Lvl 9"                         description="Items ON"                                       gfx="Lvl9.png"          quality="1" cache="luck"/>
+
+  <!-- FAP RING!-->
+  <active  name="Ring of Favor and Protection"  description="Don't take it off"                               gfx="FAPRing.png"          quality="1" cache="damage firedelay speed luck range" maxcharges = "0" />
+  <passive  name="Ring of Favor and Protection "  description="Don't take it off"                               gfx="FAPRing.png"          quality="1" cache="damage firedelay speed luck range" maxhearts="2"/>
+
+
+
+  <!-- SPORTSBALL!-->
+  <passive name="Sportsball"                    description="Stiff-arm spinmove!"                             gfx="sportsball.png"          quality="1" cache="shotspeed speed range tearflag"/>
+
+  <!-- Position 1!-->
+  <passive name="Position 1"                    description="Hit them creeps!"                                gfx="Pos1.png"          quality="1" cache="damage firedelay shotspeed range speed luck"/>
+
+   <!-- Cannon -->
+  <passive name="The Cannon"                    description="Then I got..."                                   gfx="TheCannon.png"          quality="1" cache="damage shotspeed speed range firedelay tearflag"/>
+
+   <!-- Atg -->
+  <passive name="AtG Missle Mk.2"               description="Hooah."                                          gfx="atgmk2.png"          quality="1" cache="damage luck"/>
+
+   <!-- Exodus !-->
+  <active name="Feeding Guantlet"             description="Investing in the future"                         gfx="FeedingGlove.png"          maxcharges="6" />
+
+    <!-- RTSR -->
+  <passive name="Red Tearstone Ring"            description="Boosts the attack of its wearer when in danger."  gfx="RTSR.png"         cache="damage" quality="1"/>
+
+  <!-- Signing Bonus -->
+  <active name="Signing Bonus"            description="Time to get paid"  gfx="SigningBonus.png" quality="1" maxcharges= "0"/>
+
+  <!-- BButton -->
+  <passive name="B Button"                    description="Pew Pew"                                   gfx="bButton.png"          quality="1" cache="damage shotspeed speed range firedelay tearflag"/>
+
+  <!-- Master Seal -->
+  <passive name="Master Seal"  description="Floor based promotions"                               gfx="MasterSeal.png"          quality="1" cache="damage firedelay speed luck range"/>
+
+  <!-- RTSR -->
+  <passive name="Glass Artifact"            description="Sharp and Brittle"  gfx="GlassArtifact.png"         cache="damage" quality="1"/>
+  
+  <!-- Full Econ -->
+  <passive name="Full Econ"            description="Do not worry..."  gfx="FullEcon.png"         cache="damage shotspeed firedelay" quality="1"/>
+
+   <!-- Hand Axe -->
+  <passive name="Hand Axe"                    description="1-2 Range"                                   gfx="bButton.png"          quality="1" cache="damage shotspeed range firedelay tearflag"/>
+
+  
+
+
+
+  <!-- hermes boots !-->
+  <trinket  name="GK Controller"     description="My hands hurt"           gfx="GKController.png"    cache="speed firedelay"/>
+  <!-- hermes boots !-->
+  <trinket  name="Zinogre Plate"     description="Lucky!"           gfx="ZinogrePlateT.png"    cache="luck"/>
+</items>

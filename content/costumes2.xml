@@ -1,0 +1,8 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="character_craig_hair.anm2" type="none" priority="99" />
+	<costume anm2path="character_porter_hair.anm2" type="none" priority="99" />
+</costumes>
+
+<!--
+see (https://wofsauge.github.io/IsaacDocs/rep/xml/costumes2/) for more info on the tags :)
+!-->

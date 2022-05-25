@@ -1,0 +1,14 @@
+<sounds root="sounds/">
+	<sound name="MissleLuanch">
+		<sample weight="1" path="item_proc_missile_fire_01.OGG"/>
+		<sample weight="1" path="item_proc_missile_fire_02.OGG"/>
+		<sample weight="1" path="item_proc_missile_fire_03.OGG"/>
+		<sample weight="1" path="item_proc_missile_fire_04.OGG"/>
+	</sound>
+	<sound name="Falco_Laser">
+		<sample weight="1" path="falco_laser.wav"/>
+	</sound>
+	<sound name="Ya">
+		<sample weight="1" path="Ya.wav"/>
+	</sound>
+</sounds>
